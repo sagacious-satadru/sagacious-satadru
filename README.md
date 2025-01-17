@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on React Native and Spring Boot<br>🌱 I’m currently learning React Native and Spring Boot<br>💬 Ask me about Python, Machine Learning, video games, anime and thrillers.<br>🔬 I like exploring creation of GUI based apps with Python (PySide6)<br>👀 I also like playing around with React.js from time to time to create front-end interfaces that y'all will hopefully find appealing.
+🔭 I am currently working on React Native and Spring Boot<br>🌱 I’m currently learning React Native and Spring Boot<br>💬 Ask me about Python, Machine Learning, video games, anime and thrillers.<br>🔬 I like exploring creation of GUI based apps with Python (PySide6, Tkinter)<br>👀 I also like playing around with React.js from time to time to create front-end interfaces that y'all will hopefully find appealing.
 
 
 ## 🌐 Socials:
